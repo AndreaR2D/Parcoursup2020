@@ -14,9 +14,9 @@ Excel, Python, PowerBI
 - 12 760 rows
 - 115 fields / Types count: 
 - Types occurence count:
-  - int64      47
-  - float64    46
-  - object     22
+  - int64:      47
+  - float64:    46
+  - object:     22
 
 ## 🎡 Data Cleaning
 Quality checklist:
