@@ -1,5 +1,6 @@
 # Parcoursup2020
 
+Dataset Link: https://data.enseignementsup-recherche.gouv.fr/explore/dataset/fr-esr-parcoursup_2020/table/?sort=tri
 
 This dataset provides a list of all the programs available on Parcoursup 2020.
 The provided data includes: Program name, level, degree, institution name, candidates count, ...
